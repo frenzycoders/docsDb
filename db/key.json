@@ -1,0 +1,10 @@
+[
+    {
+        "name": "user",
+        "filePath": "/home/jack/Desktop/myClub/docsDb/db/user.json"
+    },
+    {
+        "name": "machines",
+        "filePath": "/home/jack/Desktop/myClub/docsDb/db/machines.json"
+    }
+]
